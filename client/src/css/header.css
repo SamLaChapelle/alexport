@@ -11,7 +11,7 @@
     background-color: #f1bcc3;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     overflow-x: hidden;
     overflow-y: scroll;
@@ -31,8 +31,6 @@
     width: 17em;
     background-color: #ffffff80;
     border-radius: 10em;
-    margin: 2em;
-    margin-bottom: 6em;
   }
 }
 
