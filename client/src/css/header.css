@@ -1,13 +1,14 @@
-@import url("https://fonts.googleapis.com/css2?family=Satisfy&family=Source+Sans+Pro&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Fjalla+One&display=swap');
 
 @media only screen and (min-width: 320px) {
   #header {
-    height: 100vh;
+    height: 60vh;
     width: auto;
-    background-image: url("../assets/Esthetics-background.png");
+    background-image: url("../assets/alexportBG.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #f1bcc3;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -21,11 +22,17 @@
     width: 15em;
   }
 
-  #title {
-    font-family: "Satisfy", cursive;
-    margin-bottom: 2em;
-    color: #a8fff6;
-    font-size: 2em;
+  #bio {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 17em;
+    width: 17em;
+    background-color: #ffffff80;
+    border-radius: 10em;
+    margin: 2em;
+    margin-bottom: 6em;
   }
 }
 
