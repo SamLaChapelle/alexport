@@ -4,7 +4,7 @@
   #header {
     height: 60vh;
     width: auto;
-    background-image: url("../assets/alexportBG.jpg");
+    background-image: url("../assets/apBG.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,7 +29,7 @@
     align-items: center;
     height: 17em;
     width: 17em;
-    background-color: #ffffff80;
+    background-color: #eee3e1;
     border-radius: 10em;
   }
 }
