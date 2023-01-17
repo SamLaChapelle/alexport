@@ -10,6 +10,14 @@ function Header() {
         {" "}
         <img id="Logo" src={Logo} alt="Esthetics With Alexandra Logo" />
       </Paper>
+      <div id="serviceTitle">
+        <h2 className="titles">Alex LaChapelle, LME</h2>
+        <p id="serviceBio">
+          Licensed Master Esthetician currently working at DWH Health & Wellness
+          Med Spa based in Richmond, Virginia. <br />
+          Scroll down to begin your skincare journey!
+        </p>
+      </div>
     </div>
   );
 }
