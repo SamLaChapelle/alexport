@@ -11,13 +11,13 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 function Services() {
   return (
     <div id="services">
-    <Accordion className="serviceAccordions" style={{backgroundColor: "#feb5a9"}}>
+    <Accordion className="serviceAccordions" style={{backgroundColor: "#ffffff10"}}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
-          <Typography variant="h5" className="serviceTitles">Facials</Typography>
+          <Typography variant="h6" className="serviceTitles">Facials</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="serviceBios">
@@ -30,13 +30,13 @@ function Services() {
           </Typography>
         </AccordionDetails>
       </Accordion>
-      <Accordion className="serviceAccordions" style={{backgroundColor: "#feb5a9"}}>
+      <Accordion className="serviceAccordions" style={{backgroundColor: "#ffffff10"}}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography variant="h5" className="serviceTitles">Intense Pulsed Light</Typography>
+          <Typography variant="h6" className="serviceTitles">Intense Pulsed Light</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="serviceBios">
@@ -47,13 +47,13 @@ function Services() {
           </Typography>
         </AccordionDetails>
       </Accordion>
-      <Accordion className="serviceAccordions" style={{backgroundColor: "#feb5a9"}}>
+      <Accordion className="serviceAccordions" style={{backgroundColor: "#ffffff10"}}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography variant="h5" className="serviceTitles">Laser Treatment</Typography>
+          <Typography variant="h6" className="serviceTitles">Laser Treatment</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="serviceBios">
@@ -63,13 +63,13 @@ function Services() {
           </Typography>
         </AccordionDetails>
       </Accordion>
-      <Accordion className="serviceAccordions" style={{backgroundColor: "#feb5a9"}}>
+      <Accordion className="serviceAccordions" style={{backgroundColor: "#ffffff10"}}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography variant="h5" className="serviceTitles">Microneedling with PRP</Typography>
+          <Typography variant="h6" className="serviceTitles">Microneedling with PRP</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="serviceBios">
@@ -80,13 +80,13 @@ function Services() {
           </Typography>
         </AccordionDetails>
       </Accordion>
-      <Accordion className="serviceAccordions" style={{backgroundColor: "#feb5a9"}}>
+      <Accordion className="serviceAccordions" style={{backgroundColor: "#ffffff10"}}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography variant="h5" className="serviceTitles">Waxing</Typography>
+          <Typography variant="h6" className="serviceTitles">Waxing</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="serviceBios">
@@ -95,13 +95,13 @@ function Services() {
           </Typography>
         </AccordionDetails>
       </Accordion>
-      <Accordion className="serviceAccordions" style={{backgroundColor: "#feb5a9"}}>
+      <Accordion className="serviceAccordions" style={{backgroundColor: "#ffffff10"}}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel2a-content"
           id="panel2a-header"
         >
-          <Typography variant="h5" className="serviceTitles">Brows & Lashes</Typography>
+          <Typography variant="h6" className="serviceTitles">Brows & Lashes</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="serviceBios">

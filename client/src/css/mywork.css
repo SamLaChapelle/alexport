@@ -9,6 +9,16 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    overflow-x: hidden;
+  }
+
+  #workBio {
+    height: 80vh;
+    width: 70%;
+    margin: 2em;
+    background-color: #0b0a10;
+    border-top: solid #feb5a9;
+    border-bottom: solid #feb5a9;
   }
 }
 
