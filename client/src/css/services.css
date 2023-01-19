@@ -18,23 +18,80 @@
     border-radius: 1em;
   }
 
-  .serviceTitles {
-    color: #feb5a9;
-    font-family: 'Libre Baskerville', serif;
-  }
-
   .serviceBios {
-    font-family: "Abel", sans-serif;
     color: #feb5a9;
     font-size: 1.25em;
   }
 }
 
 @media only screen and (min-width: 768px) {
+  #services {
+    height: auto;
+    width: 100%;
+    background-color: #0b0a10;
+    padding-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .serviceAccordions {
+    margin: 0em;
+    width: 80%;
+    border-radius: 1em;
+  }
+
+  .serviceBios {
+    color: #feb5a9;
+    font-size: 1.25em;
+  }
 }
 
 @media only screen and (min-width: 992px) {
+  #services {
+    height: auto;
+    width: 100%;
+    background-color: #0b0a10;
+    padding-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .serviceAccordions {
+    margin: 0em;
+    width: 80%;
+    border-radius: 1em;
+  }
+
+  .serviceBios {
+    color: #feb5a9;
+    font-size: 1.25em;
+  }
 }
 
 @media only screen and (min-width: 1200px) {
+  #services {
+    height: auto;
+    width: 100%;
+    background-color: #0b0a10;
+    padding-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .serviceAccordions {
+    margin: 0em;
+    width: 80%;
+    border-radius: 1em;
+  }
+
+  .serviceBios {
+    color: #feb5a9;
+    font-size: 1.25em;
+  }
 }

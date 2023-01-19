@@ -73,10 +73,217 @@
 }
 
 @media only screen and (min-width: 768px) {
+  a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+
+  #myWork {
+    height: auto;
+    width: 100vw;
+    background-color: #0b0a10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+  }
+
+  #workBio {
+    height: 80vh;
+    width: 70%;
+    margin: 2em;
+    background-color: #0b0a10;
+    border-top: solid #ffffff;
+    border-bottom: solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  #alexPic {
+    height: 10em;
+    border-radius: 5em;
+  }
+
+  #workTitle {
+    font-family: "Libre Baskerville", serif;
+    font-size: 1.75em;
+    color: #feb5a9;
+  }
+
+  #workAddy {
+    font-family: "Abel", sans-serif;
+    font-size: 1.25em;
+    color: #ffffff;
+  }
+
+  #workBooking {
+    font-family: "Abel", sans-serif;
+    font-size: 1.25em;
+    color: #feb5a9;
+  }
+
+  #socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 5em;
+    width: 100%;
+  }
+
+  .socialIcons {
+    color: #feb5a9;
+  }
 }
 
 @media only screen and (min-width: 992px) {
+  a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+
+  #myWork {
+    height: auto;
+    width: 100vw;
+    background-color: #0b0a10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+  }
+
+  #workBio {
+    height: 80vh;
+    width: 70%;
+    margin: 2em;
+    background-color: #0b0a10;
+    border-top: solid #ffffff;
+    border-bottom: solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  #alexPic {
+    height: 10em;
+    border-radius: 5em;
+  }
+
+  #workTitle {
+    font-family: "Libre Baskerville", serif;
+    font-size: 1.75em;
+    color: #feb5a9;
+  }
+
+  #workAddy {
+    font-family: "Abel", sans-serif;
+    font-size: 1.25em;
+    color: #ffffff;
+  }
+
+  #workBooking {
+    font-family: "Abel", sans-serif;
+    font-size: 1.25em;
+    color: #feb5a9;
+  }
+
+  #socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 5em;
+    width: 100%;
+  }
+
+  .socialIcons {
+    color: #feb5a9;
+  }
 }
 
 @media only screen and (min-width: 1200px) {
+  a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+
+  #myWork {
+    height: auto;
+    width: 100vw;
+    background-color: #0b0a10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+  }
+
+  #workBio {
+    height: 80vh;
+    width: 70%;
+    margin: 2em;
+    background-color: #0b0a10;
+    border-top: solid #ffffff;
+    border-bottom: solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  #alexPic {
+    height: 10em;
+    border-radius: 5em;
+  }
+
+  #workTitle {
+    font-family: "Libre Baskerville", serif;
+    font-size: 1.75em;
+    color: #feb5a9;
+  }
+
+  #workAddy {
+    font-family: "Abel", sans-serif;
+    font-size: 1.25em;
+    color: #ffffff;
+  }
+
+  #workBooking {
+    font-family: "Abel", sans-serif;
+    font-size: 1.25em;
+    color: #feb5a9;
+  }
+
+  #socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 5em;
+    width: 100%;
+  }
+
+  .socialIcons {
+    color: #feb5a9;
+  }
 }

@@ -29,10 +29,87 @@
 }
 
 @media only screen and (min-width: 768px) {
+  #about {
+    height: auto;
+    width: 100%;
+    background-color: #0b0a10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #aboutTitle {
+    font-family: "Libre Baskerville", serif;
+    font-size: 1.75em;
+    color: #feb5a9;
+    align-self: flex-start;
+    margin: 1em;
+  }
+
+  #aboutBio {
+    font-family: "Abel", sans-serif;
+    font-size: 1.1em;
+    color: #feb5a9;
+    padding: 1em;
+    margin: 0;
+  }
 }
 
 @media only screen and (min-width: 992px) {
+  #about {
+    height: auto;
+    width: 100%;
+    background-color: #0b0a10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #aboutTitle {
+    font-family: "Libre Baskerville", serif;
+    font-size: 1.75em;
+    color: #feb5a9;
+    align-self: flex-start;
+    margin: 1em;
+  }
+
+  #aboutBio {
+    font-family: "Abel", sans-serif;
+    font-size: 1.1em;
+    color: #feb5a9;
+    padding: 1em;
+    margin: 0;
+    width: 50%;
+  }
 }
 
 @media only screen and (min-width: 1200px) {
+  #about {
+    height: auto;
+    width: 100%;
+    background-color: #0b0a10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #aboutTitle {
+    font-family: "Libre Baskerville", serif;
+    font-size: 1.75em;
+    color: #feb5a9;
+    align-self: flex-start;
+    margin: 1em;
+  }
+
+  #aboutBio {
+    font-family: "Abel", sans-serif;
+    font-size: 1.1em;
+    color: #feb5a9;
+    padding: 1em;
+    margin: 0;
+    width: 50%;
+  }
 }
