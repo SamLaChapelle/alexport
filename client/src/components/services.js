@@ -1,7 +1,5 @@
 import React from "react";
-import { useState, useEffect } from "react";
 import "../css/services.css";
-import Paper from "@mui/material/Paper";
 import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
@@ -90,8 +88,7 @@ function Services() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="serviceBios">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+            Full body waxing using hypoallergenic hard and soft wax.
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -105,8 +102,10 @@ function Services() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="serviceBios">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+            Brows | Waxing | Tinting & Lamination
+            <br/>
+            <br/>
+            Lashes - Lash lifts & tints | Lash condition & tint
           </Typography>
         </AccordionDetails>
       </Accordion>
